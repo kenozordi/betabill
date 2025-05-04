@@ -1,0 +1,6 @@
+@Betabill_HostAddress = http://localhost:5003
+
+GET {{Betabill_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
