@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "betabill.console": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
