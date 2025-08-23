@@ -1,7 +1,7 @@
 # 🧠 BetaBill
 
 A personal AI that will pay your bills  
-[![.NET](https://github.com/kenozordi/betabill/actions/workflows/build-dotnet.yml/badge.svg?branch=main)](https://github.com/kenozordi/betabill/actions/workflows/build-dotnet.yml)
+[![.NET](https://github.com/kenozordi/betabill/actions/workflows/dotnet-build.yml/badge.svg?branch=main)](https://github.com/kenozordi/betabill/actions/workflows/dotnet-build.yml)
 ---
 
 ## 🚀 Features
